@@ -15,6 +15,10 @@ To push your local changes to the remote repo : `git push origin main`
   - Commits should be descriptive enough.
   - Always pull the latest changes before starting to work on the project `git pull origin main`
 
+For Windows users :- `git config --global core.autocrlf true`
+
+For Linux/MacOS users :- `git config --global core.autocrlf input`
+
 ----
 
 ## Roles and access
